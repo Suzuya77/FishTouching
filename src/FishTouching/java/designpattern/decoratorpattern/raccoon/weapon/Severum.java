@@ -1,8 +1,8 @@
 package FishTouching.java.designpattern.decoratorpattern.raccoon.weapon;
 
-public class 断魄 implements WeaponBehavior{
+public class Severum implements WeaponBehavior{
     @Override
     public void useWeapon() {
-        System.out.println("断魄");
+        System.out.println("Severum");
     }
 }

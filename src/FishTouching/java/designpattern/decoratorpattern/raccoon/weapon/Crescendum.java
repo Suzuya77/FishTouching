@@ -1,8 +1,8 @@
 package FishTouching.java.designpattern.decoratorpattern.raccoon.weapon;
 
-public class 萤焰 implements WeaponBehavior{
+public class Crescendum implements WeaponBehavior{
     @Override
     public void useWeapon() {
-        System.out.println("萤焰");
+        System.out.println("Crescendum");
     }
 }

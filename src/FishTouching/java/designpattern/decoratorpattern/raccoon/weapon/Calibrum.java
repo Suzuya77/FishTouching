@@ -1,8 +1,8 @@
 package FishTouching.java.designpattern.decoratorpattern.raccoon.weapon;
 
-public class 通碧 implements WeaponBehavior{
+public class Calibrum implements WeaponBehavior{
     @Override
     public void useWeapon() {
-        System.out.println("通碧");
+        System.out.println("Calibrum");
     }
 }
